@@ -1,0 +1,142 @@
+{
+  "Product name": {
+    "$type": "string",
+    "$value": "Shitake mushrooms",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Price": {
+    "$type": "number",
+    "$value": 14.989999771118164,
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "TEXT_CONTENT"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Image": {
+    "$type": "string",
+    "$value": "Shitake mushrooms",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Description": {
+    "$type": "string",
+    "$value": "Our Texas-grown shiitake mushrooms are a savory delight for your taste buds. Grown in the heart of the Lone Star State, these mushrooms are bursting with flavor and have a meaty texture that is unmatched. Each mushroom is carefully cultivated to ensure maximum flavor and freshness. Whether you enjoy them in a hearty stir-fry, as a meat substitute in your favorite recipe, or as a topping for your next pizza, these shiitake mushrooms are sure to impress. With their umami flavor and satisfying chewiness, our Texas shiitake mushrooms are a must-try for anyone who loves high-quality, locally sourced produce.",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Farm": {
+    "$type": "string",
+    "$value": "Castelao Grocers",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Location": {
+    "$type": "string",
+    "$value": "Texas",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Amount in basket": {
+    "$type": "string",
+    "$value": "0",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Basket total": {
+    "$type": "string",
+    "$value": "0",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Theme": {
+    "$type": "color",
+    "$value": "#f1d367",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "In basket?": {
+    "$type": "boolean",
+    "$value": false,
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  }
+}
